@@ -1,3 +1,3 @@
 # React - Travel Journal
 
-![Demo Image - ](https://i.ibb.co/F5dmcnr/React-Travel-Journey.png)
+![Demo Image - ](https://i.ibb.co/t4X2r7R/React-Travel-Journal.png)
